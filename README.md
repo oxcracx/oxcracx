@@ -65,6 +65,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 <!-- </div> -->
   
-
+<!--
 ## More Projects
 - under development.
