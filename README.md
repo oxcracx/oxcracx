@@ -13,6 +13,7 @@ I am a grad student with a profound interest in technology and a dedication to s
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+<!--
 ## Skills (will update this soon)
 
 | Skill                                         | Associated Project         |
@@ -63,6 +64,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
+
+-->
 
 ## More Projects
 - under development.
